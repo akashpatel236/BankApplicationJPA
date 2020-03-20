@@ -1,6 +1,6 @@
 # BankApplicationJPA
 Springboot application - API for deposit/withdrawal - Develop branch + Feature branch changes
-
+1.1
 1) Run the application
 
 	Do mvn clean install (if running from command prompt) 
