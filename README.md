@@ -1,7 +1,5 @@
 # BankApplicationJPA
-Springboot application - API for deposit/withdrawal 
-
-
+Springboot application - API for deposit/withdrawal
 
 1) Run the application
 
